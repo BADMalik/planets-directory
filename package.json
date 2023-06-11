@@ -1,0 +1,17 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "A NASA space directory explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Bilal Malik",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.0"
+  }
+}
